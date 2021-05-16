@@ -169,8 +169,8 @@ Exportar los datos en la pestaña actual a un archivo</translation>
         <translation>Confirmar el cifrado de la billetera</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Advertencia: si encriptas tu billetera y pierdes tu contraseña &lt;b&gt; PIERDES TODOS TUS LITECOINS &lt;/b&gt; !</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Advertencia: si encriptas tu billetera y pierdes tu contraseña &lt;b&gt; PIERDES TODOS TUS CNBCOINS &lt;/b&gt; !</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -379,8 +379,8 @@ Exportar los datos en la pestaña actual a un archivo</translation>
         <translation>Barra de herramientas de pestañas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Solicitar pagos (genera códigos QR y litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Solicitar pagos (genera códigos QR y cnbcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -391,8 +391,8 @@ Exportar los datos en la pestaña actual a un archivo</translation>
         <translation>Mostrar la lista de direcciones y etiquetas de recepción usadas</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Abra un litecoin: URI o solicitud de pago</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Abra un cnbcoin: URI o solicitud de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -729,12 +729,12 @@ Exportar los datos en la pestaña actual a un archivo</translation>
         <translation>Formar</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Es posible que las transacciones recientes aún no estén visibles y, por lo tanto, el saldo de su billetera podría ser incorrecto. Esta información será correcta una vez que su billetera haya terminado de sincronizarse con la red litecoin, como se detalla a continuación.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
+        <translation>Es posible que las transacciones recientes aún no estén visibles y, por lo tanto, el saldo de su billetera podría ser incorrecto. Esta información será correcta una vez que su billetera haya terminado de sincronizarse con la red cnbcoin, como se detalla a continuación.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>La red no aceptará intentar gastar litecoins que se vean afectados por transacciones aún no mostradas</translation>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>La red no aceptará intentar gastar cnbcoins que se vean afectados por transacciones aún no mostradas</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -864,7 +864,7 @@ Exportar los datos en la pestaña actual a un archivo</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Habilite las funciones de moneda y control</translation>
+        <translation>Habicnb las funciones de moneda y control</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
@@ -1101,7 +1101,7 @@ Exportar los datos en la pestaña actual a un archivo</translation>
         <translation>Error de solicitud de pago</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
         <translation>No se puede iniciar Litecoin: controlador de clic para pagar</translation>
     </message>
     <message>

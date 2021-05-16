@@ -554,10 +554,10 @@ inline int parseIntAndAdvance(const char*& c)
     return i;
 }
 
-// Print literal part of format string and return next format spec
+// Print cnbral part of format string and return next format spec
 // position.
 //
-// Skips over any occurrences of '%%', printing a literal '%' to the
+// Skips over any occurrences of '%%', printing a cnbral '%' to the
 // output.  The position of the first % character of the next
 // nontrivial format spec is returned, or the end of string.
 inline const char* printFormatStringLiteral(std::ostream& out, const char* fmt)
@@ -574,7 +574,7 @@ inline const char* printFormatStringLiteral(std::ostream& out, const char* fmt)
                 out.write(fmt, c - fmt);
                 if(*(c+1) != '%')
                     return c;
-                // for "%%", tack trailing % onto next literal section.
+                // for "%%", tack trailing % onto next cnbral section.
                 fmt = ++c;
                 break;
             default:

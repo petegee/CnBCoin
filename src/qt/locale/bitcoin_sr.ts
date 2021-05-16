@@ -176,7 +176,7 @@
         <translation>Потврди шифрирање новчаника</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
         <translation>Упозорење: Уколико шифрирате новчаник и изгубите своју лозинку, &lt;b&gt;ИЗГУБИЋЕТЕ СВЕ СВОЈЕ БИТКОИНЕ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -410,7 +410,7 @@
         <translation>Трака са картицама</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
         <translation>Затражи плаћање (генерише QR кодове и лайткоин: URI-е)</translation>
     </message>
     <message>
@@ -422,7 +422,7 @@
         <translation>Прегледајте листу коришћених адреса и етикета за пријем уплата</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a cnbcoin: URI or payment request</source>
         <translation>Отворите лайткоин: URI или захтев за плаћање</translation>
     </message>
     <message>

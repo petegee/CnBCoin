@@ -221,7 +221,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -237,7 +237,7 @@
     </message>
     <message>
         <location line="-56"/>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cnbcoins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -526,7 +526,7 @@
     </message>
     <message>
         <location line="-271"/>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -541,7 +541,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a cnbcoin: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1195,12 +1195,12 @@
     </message>
     <message>
         <location line="+119"/>
-        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+19"/>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1739,7 +1739,7 @@
     </message>
     <message>
         <location line="-529"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1754,7 +1754,7 @@
     </message>
     <message>
         <location line="-53"/>
-        <source>&apos;litecoin://&apos; is not a valid URI. Use &apos;litecoin:&apos; instead.</source>
+        <source>&apos;cnbcoin://&apos; is not a valid URI. Use &apos;cnbcoin:&apos; instead.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2889,7 +2889,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+543"/>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for cnbcoin transactions than the network can process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3162,7 +3162,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="-1028"/>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3197,7 +3197,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+54"/>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3254,7 +3254,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+6"/>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cnbcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

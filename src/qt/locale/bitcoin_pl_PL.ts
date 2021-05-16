@@ -176,7 +176,7 @@
         <translation>Potwierdź zaszyfrowanie portfela.</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
         <translation>Uwaga: Jeśli zaszyfrujesz portfel i utracisz do niego hasło, stracisz wszystkie swoje Litecoiny. </translation>
     </message>
     <message>
@@ -402,8 +402,8 @@
         <translation>Pasek zakładek</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Zażądaj płatności (generuje kod QR oraz litecoin: URls)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Zażądaj płatności (generuje kod QR oraz cnbcoin: URls)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -414,8 +414,8 @@
         <translation>Pokaż liste użytych adresów do odbioru oraz ich etykiety</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Otwórz litecoin: URl lub żądanie płatności</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Otwórz cnbcoin: URl lub żądanie płatności</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -648,11 +648,11 @@
         <translation>Formularz</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
         <translation>Niedawne transakcje mogą być jeszcze nie widoczne i z tego powodu saldo Twojego portfela może być nieprawidłowe. Te informacje zostaną poprawione kiedy Twój portfel skończy się synchronizować z siecią Litecoin, w sposób opisany poniżej. </translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>Próby przesłania Litecoinów które nie zostały jeszcze wyświetlone w transakcjach nie zostaną zaakceptowane przez sieć.</translation>
     </message>
     <message>

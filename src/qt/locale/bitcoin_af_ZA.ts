@@ -172,8 +172,8 @@
         <translation>Bevestig beursie enkripsie.</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Waarskuwing: As jy jou beursie enkripteer en jou wagwoord verloor, sal jy &lt;b&gt;AL JOU LITECOINS VERLOOR&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Waarskuwing: As jy jou beursie enkripteer en jou wagwoord verloor, sal jy &lt;b&gt;AL JOU CNBCOINS VERLOOR&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -398,8 +398,8 @@
         <translation>Blad nutsbalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Versoek betalings (genereer QR kodes en litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Versoek betalings (genereer QR kodes en cnbcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,8 +410,8 @@
         <translation>Wys die lys van gebruikte ontvangsadresse en etikette</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Open 'n litecoin: URI of betalingsversoek</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Open 'n cnbcoin: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

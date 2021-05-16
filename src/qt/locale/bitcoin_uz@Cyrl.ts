@@ -210,8 +210,8 @@
         <translation>Ички ойналар асбоблар панели</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Тўловлар (QR кодлари ва litecoin ёрдамида яратишлар: URI’лар) сўраш</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Тўловлар (QR кодлари ва cnbcoin ёрдамида яратишлар: URI’лар) сўраш</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -222,7 +222,7 @@
         <translation>Фойдаланилган қабул қилинган манзиллар ва ёрлиқлар рўйхатини кўрсатиш</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a cnbcoin: URI or payment request</source>
         <translation>Litecoin’ни очиш: URI ёки тўлов сўрови</translation>
     </message>
     <message>

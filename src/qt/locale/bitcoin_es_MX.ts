@@ -172,8 +172,8 @@
         <translation>Confirmar la encriptación de cartera</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Advertencia: Si encripta su cartera y pierde su contraseña, &lt;b&gt;PERDERÁ TODOS SUS LITECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Advertencia: Si encripta su cartera y pierde su contraseña, &lt;b&gt;PERDERÁ TODOS SUS CNBCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -184,8 +184,8 @@
         <translation>Cartera encriptada</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Su monedero está encriptada. Recuerda que encriptar tu cartera no protege completamente a tus litecoins de ser robadas por malware infectando tu computadora.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cnbcoins from being stolen by malware infecting your computer.</source>
+        <translation>Su monedero está encriptada. Recuerda que encriptar tu cartera no protege completamente a tus cnbcoins de ser robadas por malware infectando tu computadora.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>

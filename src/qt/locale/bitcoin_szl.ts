@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Wkludź nowe hasło do portmanyja.&lt;br/&gt;Proszã używać hasła słożōnego z &lt;b&gt;10 abo wiyncyj losowych liter&lt;/b&gt; abo &lt;b&gt;8 abo wiyncyj słōw.&lt;/b&gt;.</translation>
+        <translation>Wkludź nowe hasło do portmanyja.&lt;br/&gt;Proszã używać hasła słożōnego z &lt;b&gt;10 abo wiyncyj losowych cnbr&lt;/b&gt; abo &lt;b&gt;8 abo wiyncyj słōw.&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -176,8 +176,8 @@
         <translation>Przituplikuj szyfrowanie portmanyja</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Pozōr: jeźli zaszyfrujesz swōj portmanyj i stracisz hasło &lt;b&gt;STRACISZ WSZYJSKE SWOJE LITECOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Pozōr: jeźli zaszyfrujesz swōj portmanyj i stracisz hasło &lt;b&gt;STRACISZ WSZYJSKE SWOJE CNBCOINY&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -410,8 +410,8 @@
         <translation>Lajsta szkart</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Żōndej płatu (gyneruje kod QR jak tyż URI litecoin:)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Żōndej płatu (gyneruje kod QR jak tyż URI cnbcoin:)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,8 +422,8 @@
         <translation>Pokŏż wykŏz adres i etyket użytych do ôdbiyraniŏ</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Ôdewrzij URI litecoin: abo żōndanie płatu</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Ôdewrzij URI cnbcoin: abo żōndanie płatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -884,12 +884,12 @@
         <translation>Formular</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Świyże transakcyje mogōm niy być jeszcze widzialne, a tedyć saldo portmanyja może być niynŏleżne. Te detale bydōm nŏleżne, kej portmanyj zakōńczy synchrōnizacyjõ z necym litecoin, zgodnie z miyniōnym ôpisym.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
+        <translation>Świyże transakcyje mogōm niy być jeszcze widzialne, a tedyć saldo portmanyja może być niynŏleżne. Te detale bydōm nŏleżne, kej portmanyj zakōńczy synchrōnizacyjõ z necym cnbcoin, zgodnie z miyniōnym ôpisym.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Prōba wydaniŏ litecoinōw kere niy sōm jeszcze wyświytlōne za transakcyjŏ ôstanie ôdciepniyntŏ bez nec.</translation>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Prōba wydaniŏ cnbcoinōw kere niy sōm jeszcze wyświytlōne za transakcyjŏ ôstanie ôdciepniyntŏ bez nec.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1138,7 +1138,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświytlanŏ informacyjŏ może być niyterŏźnŏ. Twōj portmanyj synchrōnizuje sie autōmatycznie z necym litecoin zarŏz po tym, jak zrychtowane je skuplowanie, ale proces tyn niy ôstoł jeszcze skōńczōny.</translation>
+        <translation>Wyświytlanŏ informacyjŏ może być niyterŏźnŏ. Twōj portmanyj synchrōnizuje sie autōmatycznie z necym cnbcoin zarŏz po tym, jak zrychtowane je skuplowanie, ale proces tyn niy ôstoł jeszcze skōńczōny.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1172,8 +1172,8 @@
         <translation>Bedynōng URI</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' to niyma nŏleżne URI. Użyj 'litecoin:'.</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>'cnbcoin://' to niyma nŏleżne URI. Użyj 'cnbcoin:'.</translation>
     </message>
     <message>
         <source>Payment request network doesn't match client network.</source>
@@ -1686,8 +1686,8 @@
         <translation>Wiadōmość:</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Wiadōmość, kerŏ ôstała prziwstōnŏ do URI litecoin:, kerŏ bydzie przechowowanŏ z transakcyjōm w cylach informacyjnych. Napōmniynie: Ta wiadōmość niy bydzie rozszyrzowanŏ w necu Litecoin.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <translation>Wiadōmość, kerŏ ôstała prziwstōnŏ do URI cnbcoin:, kerŏ bydzie przechowowanŏ z transakcyjōm w cylach informacyjnych. Napōmniynie: Ta wiadōmość niy bydzie rozszyrzowanŏ w necu Litecoin.</translation>
     </message>
     </context>
 <context>

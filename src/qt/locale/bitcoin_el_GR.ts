@@ -176,8 +176,8 @@
         <translation>Επιβεβαίωσε κρυπτογράφηση πορτοφολιού</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Προσόχη! Εάν κρυπτογραφήσεις το πορτοφόλι σου και χάσεις τη φράση αποκατάστασης, θα &lt;b&gt; ΧΑΣΕΙΣ ΟΛΑ ΣΟΥ ΤΑ LITECOIN &lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Προσόχη! Εάν κρυπτογραφήσεις το πορτοφόλι σου και χάσεις τη φράση αποκατάστασης, θα &lt;b&gt; ΧΑΣΕΙΣ ΟΛΑ ΣΟΥ ΤΑ CNBCOIN &lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>Στείλε νομίσματα σε μια διεύθυνση litecoin</translation>
+        <translation>Στείλε νομίσματα σε μια διεύθυνση cnbcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -406,8 +406,8 @@
         <translation>Εργαλειοθήκη καρτελών</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις litecoin: )</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις cnbcoin: )</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -418,8 +418,8 @@
         <translation>Προβολή της λίστας των χρησιμοποιημένων διευθύνσεων και ετικετών λήψεως</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Άνοιγμα litecoin: URI αίτησης πληρωμής</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Άνοιγμα cnbcoin: URI αίτησης πληρωμής</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1080,8 +1080,8 @@
         <translation>Σφάλμα αίτησης πληρωμής</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Δεν είναι δυνατή η εκκίνηση του litecoin: χειριστής click-to-pay</translation>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
+        <translation>Δεν είναι δυνατή η εκκίνηση του cnbcoin: χειριστής click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>

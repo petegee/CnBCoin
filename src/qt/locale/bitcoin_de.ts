@@ -176,8 +176,8 @@
         <translation>Wallet-Verschlüsselung bestätigen</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Warnung: Wenn Sie Ihre Wallet verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;ALLE IHRE LITECOINS VERLIEREN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Warnung: Wenn Sie Ihre Wallet verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;ALLE IHRE CNBCOINS VERLIEREN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,7 +188,7 @@
         <translation>Wallet verschlüsselt</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cnbcoins from being stolen by malware infecting your computer.</source>
         <translation>Ihre Wallet ist jetzt verschlüsselt. Denken Sie daran, dass auch eine Verschlüsselung ihre Litecoins nicht vollkommen vor Diebstahl schützen kann, sollte ihr PC mit Malware infiziert sein. </translation>
     </message>
     <message>
@@ -414,8 +414,8 @@
         <translation>Registerkartenleiste</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Zahlungen anfordern (erzeugt QR-Codes und "litecoin:"-URIs)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Zahlungen anfordern (erzeugt QR-Codes und "cnbcoin:"-URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,8 +426,8 @@
         <translation>Liste verwendeter Empfangsadressen und Bezeichnungen anzeigen</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Eine "litecoin:"-URI oder Zahlungsanforderung öffnen</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Eine "cnbcoin:"-URI oder Zahlungsanforderung öffnen</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -944,11 +944,11 @@
         <translation>Formular</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
         <translation>Neueste Transaktionen werden eventuell noch nicht angezeigt, daher könnte Ihr Kontostand veraltet sein. Er wird korrigiert, sobald Ihr Wallet die Synchronisation mit dem Litecoin-Netzwerk erfolgreich abgeschlossen hat. Details dazu finden sich weiter unten.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>Versuche, Litecoins aus noch nicht angezeigten Transaktionen auszugeben, werden vom Netzwerk nicht akzeptiert.</translation>
     </message>
     <message>
@@ -1364,7 +1364,7 @@
         <translation>Fehler bei der Zahlungsanforderung</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
         <translation>Kann Litecoin nicht starten: Klicken-zum-Bezahlen-Handler</translation>
     </message>
     <message>
@@ -1372,8 +1372,8 @@
         <translation>URI-Verarbeitung</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' ist kein gültiger URL. Bitte 'litecoin:' nutzen.</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>'cnbcoin://' ist kein gültiger URL. Bitte 'cnbcoin:' nutzen.</translation>
     </message>
     <message>
         <source>You are using a BIP70 URL which will be unsupported in the future.</source>
@@ -2231,7 +2231,7 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
         <translation>"Dust":</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for cnbcoin transactions than the network can process.</source>
         <translation>Nur die minimale Gebühr zu bezahlen ist so lange in Ordnung, wie weniger Transaktionsvolumen als Platz in den Blöcken vorhanden ist. Aber Vorsicht, diese Option kann dazu führen, dass Transaktionen nicht bestätigt werden, wenn mehr Bedarf an Litecoin-Transaktionen besteht als das Netzwerk verarbeiten kann.</translation>
     </message>
     <message>
@@ -2442,7 +2442,7 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
         <translation>Diesen Eintrag entfernen</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Die Gebühr wird vom zu überweisenden Betrag abgezogen. Der Empfänger wird also weniger Litecoins erhalten, als Sie im Betrags-Feld eingegeben haben. Falls mehrere Empfänger ausgewählt wurden, wird die Gebühr gleichmäßig verteilt.</translation>
     </message>
     <message>
@@ -2470,8 +2470,8 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
         <translation>Adressbezeichnung eingeben, die dann zusammen mit der Adresse der Liste bereits verwendeter Adressen hinzugefügt wird.</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Eine an die "litecoin:"-URI angefügte Nachricht, die zusammen mit der Transaktion gespeichert wird. Hinweis: Diese Nachricht wird nicht über das Litecoin-Netzwerk gesendet.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <translation>Eine an die "cnbcoin:"-URI angefügte Nachricht, die zusammen mit der Transaktion gespeichert wird. Hinweis: Diese Nachricht wird nicht über das Litecoin-Netzwerk gesendet.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2515,7 +2515,7 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
         <translation>Nachricht &amp;signieren</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cnbcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Sie können Nachrichten/Vereinbarungen mit Hilfe Ihrer Adressen signieren, um zu beweisen, dass Sie Litecoins empfangen können, die an diese Adressen überwiesen werden. Seien Sie vorsichtig und signieren Sie nichts Vages oder Willkürliches, um Ihre Indentität vor Phishingangriffen zu schützen. Signieren Sie nur vollständig-detaillierte Aussagen, mit denen Sie auch einverstanden sind.</translation>
     </message>
     <message>

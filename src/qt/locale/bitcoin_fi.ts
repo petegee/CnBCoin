@@ -176,8 +176,8 @@
         <translation>Vahvista lompakon salaaminen</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI LITECOINISI&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI CNBCOINISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Lompakko salattiin</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Lompakkosi on nyt salattu. Muistathan, että lompakon salaus ei riitä suojaamaan litecoinejasi viruksen tai muun haittaohjelman tekemältä varkaudelta.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cnbcoins from being stolen by malware infecting your computer.</source>
+        <translation>Lompakkosi on nyt salattu. Muistathan, että lompakon salaus ei riitä suojaamaan cnbcoinejasi viruksen tai muun haittaohjelman tekemältä varkaudelta.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -414,8 +414,8 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja litecoin: URIt)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja cnbcoin: URIt)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,8 +426,8 @@
         <translation>Näytä vastaanottamiseen käytettyjen osoitteiden ja nimien lista</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Avaa litecoin: URI tai maksupyyntö</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Avaa cnbcoin: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -908,12 +908,12 @@
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Viimeiset tapahtumat eivät välttämättä vielä näy, joten lompakkosi saldo voi olla virheellinen. Tieto korjautuu, kunhan lompakkosi synkronointi litecoin-verkon kanssa on päättynyt. Tiedot näkyvät alla.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
+        <translation>Viimeiset tapahtumat eivät välttämättä vielä näy, joten lompakkosi saldo voi olla virheellinen. Tieto korjautuu, kunhan lompakkosi synkronointi cnbcoin-verkon kanssa on päättynyt. Tiedot näkyvät alla.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Verkko ei tule hyväksymään sellaisten litecoinien käyttämistä, jotka liittyvät vielä näkymättömissä oleviin siirtoihin.</translation>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Verkko ei tule hyväksymään sellaisten cnbcoinien käyttämistä, jotka liittyvät vielä näkymättömissä oleviin siirtoihin.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1171,11 +1171,11 @@
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona litecoin-määrät näytetään</translation>
+        <translation>Yksikkö jona cnbcoin-määrät näytetään</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti litecoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti cnbcoin-määrien näyttämiseen.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1320,7 +1320,7 @@
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
         <translation>Litecoinia ei voi käynnistää: klikkaa-maksaaksesi -käsittelijän virhe</translation>
     </message>
     <message>
@@ -1328,8 +1328,8 @@
         <translation>URI käsittely</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' ei ole kelvollinen URI. Käytä 'litecoin:' sen sijaan.</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>'cnbcoin://' ei ole kelvollinen URI. Käytä 'cnbcoin:' sen sijaan.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -2350,8 +2350,8 @@
         <translation>Poista tämä alkio</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Kulu vähennetään lähetettävästä määrästä. Saaja vastaanottaa vähemmän litecoineja kuin merkitset Määrä-kenttään. Jos saajia on monia, kulu jaetaan tasan.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Kulu vähennetään lähetettävästä määrästä. Saaja vastaanottaa vähemmän cnbcoineja kuin merkitset Määrä-kenttään. Jos saajia on monia, kulu jaetaan tasan.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2378,8 +2378,8 @@
         <translation>Aseta nimi tälle osoitteelle lisätäksesi sen käytettyjen osoitteiden listalle.</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Viesti joka liitettiin litecoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Litecoin-verkkoon.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <translation>Viesti joka liitettiin cnbcoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Litecoin-verkkoon.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2423,8 +2423,8 @@
         <translation>&amp;Allekirjoita viesti</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Voit allekirjoittaa viestit / sopimukset omalla osoitteellasi todistaaksesi että voit vastaanottaa siihen lähetetyt litecoinit. Varo allekirjoittamasta mitään epämääräistä, sillä phishing-hyökkääjät voivat huijata sinua luovuttamaan henkilöllisyytesi allekirjoituksella. Allekirjoita ainoastaan täysin yksityiskohtainen selvitys siitä, mihin olet sitoutumassa.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cnbcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Voit allekirjoittaa viestit / sopimukset omalla osoitteellasi todistaaksesi että voit vastaanottaa siihen lähetetyt cnbcoinit. Varo allekirjoittamasta mitään epämääräistä, sillä phishing-hyökkääjät voivat huijata sinua luovuttamaan henkilöllisyytesi allekirjoituksella. Allekirjoita ainoastaan täysin yksityiskohtainen selvitys siitä, mihin olet sitoutumassa.</translation>
     </message>
     <message>
         <source>The Litecoin address to sign the message with</source>

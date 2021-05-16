@@ -164,8 +164,8 @@
         <translation>Cadarnhau amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Rhybudd: Os ydych yn amgryptio'r waled ag yn colli'r cyfrinair, byddwch yn &lt;b&gt; COLLI EICH LITECOINS I GYD &lt;b&gt; !</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Rhybudd: Os ydych yn amgryptio'r waled ag yn colli'r cyfrinair, byddwch yn &lt;b&gt; COLLI EICH CNBCOINS I GYD &lt;b&gt; !</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -386,8 +386,8 @@
         <translation>Bar offer tabiau</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Gofyn taliadau (creu côd QR a litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Gofyn taliadau (creu côd QR a cnbcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -398,7 +398,7 @@
         <translation>Dangos rhestr o gyfeiriadau derbyn a labelau wedi eu defnyddio</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a cnbcoin: URI or payment request</source>
         <translation>Agor Litecoin: URI neu ofyn taliad</translation>
     </message>
     <message>

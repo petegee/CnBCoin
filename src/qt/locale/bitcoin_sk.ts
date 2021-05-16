@@ -176,8 +176,8 @@
         <translation>Potvrďte zašifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE LITECOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE CNBCOINY&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Peňaženka zašifrovaná</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Vaša peňaženka je teraz zašifrovaná. Zašifrovanie peňaženky Vás plne nechráni pred krádežou litecoinov škodlivými programami, ktoré prenikli do vášho počítača.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cnbcoins from being stolen by malware infecting your computer.</source>
+        <translation>Vaša peňaženka je teraz zašifrovaná. Zašifrovanie peňaženky Vás plne nechráni pred krádežou cnbcoinov škodlivými programami, ktoré prenikli do vášho počítača.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -343,7 +343,7 @@
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>Poslať litecoins na adresu</translation>
+        <translation>Poslať cnbcoins na adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -414,8 +414,8 @@
         <translation>Lišta záložiek</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Vyžiadať platby (vygeneruje QR kódy a litecoin: URI)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Vyžiadať platby (vygeneruje QR kódy a cnbcoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,8 +426,8 @@
         <translation>Zobraziť zoznam použitých prijímacích adries a ich popisov</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Otvoriť litecoin URI alebo výzvu k platbe</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Otvoriť cnbcoin URI alebo výzvu k platbe</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -944,12 +944,12 @@
         <translation>Formulár</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Nedávne transakcie nemusia byť ešte viditeľné preto môže byť zostatok vo vašej peňaženke nesprávny. Táto informácia bude správna keď sa dokončí synchronizovanie peňaženky so sieťou litecoin, ako je rozpísané nižšie.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
+        <translation>Nedávne transakcie nemusia byť ešte viditeľné preto môže byť zostatok vo vašej peňaženke nesprávny. Táto informácia bude správna keď sa dokončí synchronizovanie peňaženky so sieťou cnbcoin, ako je rozpísané nižšie.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Pokus o minutie litecoinov, ktoré sú ovplyvnené ešte nezobrazenými transakciami, nebude sieťou akceptovaný.</translation>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Pokus o minutie cnbcoinov, ktoré sú ovplyvnené ešte nezobrazenými transakciami, nebude sieťou akceptovaný.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1219,7 +1219,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Zvoľte ako deliť litecoin pri zobrazovaní pri platbách a užívateľskom rozhraní.</translation>
+        <translation>Zvoľte ako deliť cnbcoin pri zobrazovaní pri platbách a užívateľskom rozhraní.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1368,7 +1368,7 @@
         <translation>Chyba pri vyžiadaní platby</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
         <translation>Nemôžeme spustiť Litecoin: obsluha click-to-pay</translation>
     </message>
     <message>
@@ -1376,8 +1376,8 @@
         <translation>URI manipulácia</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' je neplatná URI. Použite 'litecoin:'</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>'cnbcoin://' je neplatná URI. Použite 'cnbcoin:'</translation>
     </message>
     <message>
         <source>You are using a BIP70 URL which will be unsupported in the future.</source>
@@ -1499,7 +1499,7 @@
     </message>
     <message>
         <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Zadajte litecoin adresu (napr. %1)</translation>
+        <translation>Zadajte cnbcoin adresu (napr. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1956,19 +1956,19 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>Pridať voliteľnú správu k výzve na zaplatenie, ktorá sa zobrazí keď bude výzva otvorená. Poznámka: Správa nebude poslaná s platbou cez sieť Litecoin.</translation>
+        <translation>Pridať vocnbľnú správu k výzve na zaplatenie, ktorá sa zobrazí keď bude výzva otvorená. Poznámka: Správa nebude poslaná s platbou cez sieť Litecoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>Voliteľný popis ktorý sa pridá k tejto novej prijímajúcej adrese.</translation>
+        <translation>Vocnbľný popis ktorý sa pridá k tejto novej prijímajúcej adrese.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Použite tento formulár pre vyžiadanie platby. Všetky polia sú &lt;b&gt;voliteľné&lt;/b&gt;.</translation>
+        <translation>Použite tento formulár pre vyžiadanie platby. Všetky polia sú &lt;b&gt;vocnbľné&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Voliteľná požadovaná suma. Nechajte prázdne alebo nulu ak nepožadujete určitú sumu.</translation>
+        <translation>Vocnbľná požadovaná suma. Nechajte prázdne alebo nulu ak nepožadujete určitú sumu.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
@@ -2236,8 +2236,8 @@ Poznámka: Keďže poplatok je počítaný za bajt, poplatok o hodnote "100 sato
         <translation>Prach:</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
-        <translation>Ak je v blokoch menej objemu transakcií ako priestoru, ťažiari ako aj vysielacie uzly, môžu uplatniť minimálny poplatok. Platiť iba minimálny poplatok je v poriadku, ale uvedomte si, že to môže mať za následok transakciu, ktorá sa nikdy nepotvrdí, akonáhle je väčší dopyt po litecoinových transakciách, než dokáže sieť spracovať.</translation>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for cnbcoin transactions than the network can process.</source>
+        <translation>Ak je v blokoch menej objemu transakcií ako priestoru, ťažiari ako aj vysielacie uzly, môžu uplatniť minimálny poplatok. Platiť iba minimálny poplatok je v poriadku, ale uvedomte si, že to môže mať za následok transakciu, ktorá sa nikdy nepotvrdí, akonáhle je väčší dopyt po cnbcoinových transakciách, než dokáže sieť spracovať.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -2447,8 +2447,8 @@ Poznámka: Keďže poplatok je počítaný za bajt, poplatok o hodnote "100 sato
         <translation>Odstrániť túto položku</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Poplatok sa odpočíta od čiastky, ktorú odosielate. Príjemca dostane menej litecoinov ako zadáte. Ak je vybraných viacero príjemcov, poplatok je rozdelený rovným dielom.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Poplatok sa odpočíta od čiastky, ktorú odosielate. Príjemca dostane menej cnbcoinov ako zadáte. Ak je vybraných viacero príjemcov, poplatok je rozdelený rovným dielom.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2475,8 +2475,8 @@ Poznámka: Keďže poplatok je počítaný za bajt, poplatok o hodnote "100 sato
         <translation>Vložte popis pre túto adresu aby sa uložila do zoznamu použitých adries</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Správa ktorá bola pripojená k litecoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť Litecoin.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <translation>Správa ktorá bola pripojená k cnbcoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť Litecoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2520,7 +2520,7 @@ Poznámka: Keďže poplatok je počítaný za bajt, poplatok o hodnote "100 sato
         <translation>&amp;Podpísať Správu</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cnbcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Môžete podpísať správy svojou adresou a dokázať, že viete prijímať mince zaslané na túto adresu. Buďte však opatrní a podpíšte len podrobné prehlásenia, s ktorými plne súhlasíte, nakoľko útoky typu "phishing" Vás môžu lákať k podpísaniu nejasných alebo príliš všeobecných tvrdení čím prevezmú vašu identitu.</translation>
     </message>
     <message>

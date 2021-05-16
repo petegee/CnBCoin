@@ -30,7 +30,7 @@ const std::string CLIENT_NAME("LitecoinCore");
  *   be defined (automatically using the export-subst git attribute), and
  *   GIT_COMMIT will contain the commit id.
  * * then, three options exist for determining CLIENT_BUILD:
- *   * if BUILD_DESC is defined, use that literally (output of git-describe)
+ *   * if BUILD_DESC is defined, use that cnbrally (output of git-describe)
  *   * if not, but GIT_COMMIT is defined, use v[maj].[min].[rev].[build]-g[commit]
  *   * otherwise, use v[maj].[min].[rev].[build]-unk
  * finally CLIENT_VERSION_SUFFIX is added

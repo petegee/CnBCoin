@@ -164,8 +164,8 @@
         <translation>Confirmă criptarea portofelului</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Atenție: Dacă îți criptezi portofelul și uiți parola, îți vei &lt;b&gt; PIERDE TOȚI LITECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Atenție: Dacă îți criptezi portofelul și uiți parola, îți vei &lt;b&gt; PIERDE TOȚI CNBCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Ajutor</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Cerere plată (generează coduri QR și litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Cerere plată (generează coduri QR și cnbcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -378,8 +378,8 @@
         <translation>Afișează lista adreselor de primire utilizate și etichetele.</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Deschide un litecoin: URI sau cerere de plată</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Deschide un cnbcoin: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -644,8 +644,8 @@
         <translation>formular</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Posibil ca tranzacțiile recente să nu fie vizibile, încă, astfel bilanțul portofelului tău poate fi incorect. Aceste informații vor fi corecte o dată ce portofelul tău a încheiat sincronizarea cu rețeaua litecoin, conform descrierii de mai jos.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
+        <translation>Posibil ca tranzacțiile recente să nu fie vizibile, încă, astfel bilanțul portofelului tău poate fi incorect. Aceste informații vor fi corecte o dată ce portofelul tău a încheiat sincronizarea cu rețeaua cnbcoin, conform descrierii de mai jos.</translation>
     </message>
     <message>
         <source>Unknown...</source>

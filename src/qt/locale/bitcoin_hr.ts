@@ -176,12 +176,12 @@
         <translation>Potvrdite šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE LITECOINE!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE CNBCOINE!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
+        <translation>Jeste li sigurni da žecnb šifrirati svoj novčanik?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -410,8 +410,8 @@
         <translation>Traka kartica</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Zatražite uplatu (stvara QR kod i litecoin: URI adresu)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Zatražite uplatu (stvara QR kod i cnbcoin: URI adresu)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,8 +422,8 @@
         <translation>Prikažite popis korištenih adresa i oznaka za primanje novca</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Otvorite litecoin: URI adresu ili zahtjev za uplatu</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Otvorite cnbcoin: URI adresu ili zahtjev za uplatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -883,12 +883,12 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
         <translation>Nedavne transakcije možda još nisu vidljive pa vam stanje novčanika može biti netočno. Ove informacije bit će točne nakon što vaš novčanik dovrši sinkronizaciju s Litecoinovom mrežom, kako je opisano dolje.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Mreža neće prihvatiti pokušaje trošenja litecoina koji su utjecani sa strane transakcija koje još nisu vidljive.</translation>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Mreža neće prihvatiti pokušaje trošenja cnbcoina koji su utjecani sa strane transakcija koje još nisu vidljive.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1074,7 +1074,7 @@
     </message>
     <message>
         <source>Allow incomin&amp;g connections</source>
-        <translation>Dozvolite dolazeće veze</translation>
+        <translation>Dozvocnb dolazeće veze</translation>
     </message>
     <message>
         <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
@@ -1150,11 +1150,11 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio litecoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio cnbcoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Ovisi želite li prikazati mogućnosti kontroliranja inputa ili ne.</translation>
+        <translation>Ovisi žecnb li prikazati mogućnosti kontroliranja inputa ili ne.</translation>
     </message>
     <message>
         <source>&amp;Third party transaction URLs</source>
@@ -1186,7 +1186,7 @@
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>Zatvorit će se klijent. Želite li nastaviti?</translation>
+        <translation>Zatvorit će se klijent. Žecnb li nastaviti?</translation>
     </message>
     <message>
         <source>Configuration options</source>
@@ -1295,7 +1295,7 @@
         <translation>Greška kod zahtjeva za plaćanje</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
         <translation>Ne može se pokrenuti klijent: rukovatelj "kliknite da platite"</translation>
     </message>
     <message>
@@ -1303,8 +1303,8 @@
         <translation>URI upravljanje</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' nije ispravan URI. Koristite 'litecoin:' umjesto toga.</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>'cnbcoin://' nije ispravan URI. Koristite 'cnbcoin:' umjesto toga.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1870,7 +1870,7 @@
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Opcionalan iznos koji možete zahtijevati. Ostavite ovo prazno ili unesite nulu ako ne želite zahtijevati specifičan iznos.</translation>
+        <translation>Opcionalan iznos koji možete zahtijevati. Ostavite ovo prazno ili unesite nulu ako ne žecnb zahtijevati specifičan iznos.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
@@ -2203,7 +2203,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>Jeste li sigurni da želite poslati transakciju?</translation>
+        <translation>Jeste li sigurni da žecnb poslati transakciju?</translation>
     </message>
     <message>
         <source>or</source>
@@ -2341,7 +2341,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Obrišite ovaj zapis</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Naknada će biti oduzeta od poslanog iznosa. Primatelj će primiti manji iznos od onoga koji unesete u polje iznosa. Ako je odabrano više primatelja, onda će naknada biti podjednako raspodijeljena.</translation>
     </message>
     <message>
@@ -2369,7 +2369,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Unesite oznaku za ovu adresu kako bi ju dodali u vaš adresar</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
         <translation>Poruka koja je dodana uplati: URI koji će biti spremljen s transakcijom za referencu. Napomena: Ova poruka neće biti poslana preko Litecoin mreže.</translation>
     </message>
     <message>
@@ -2414,8 +2414,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>&amp;Potpišite poruku</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Možete potpisati poruke/dogovore svojim adresama kako biste dokazali da možete pristupiti litecoinima poslanim na te adrese. Budite oprezni da ne potpisujte ništa nejasno ili nasumično, jer napadi phishingom vas mogu prevariti da prepišite svoj identitet njima. Potpisujte samo detaljno objašnjene izjave s kojima se slažete.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cnbcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Možete potpisati poruke/dogovore svojim adresama kako biste dokazali da možete pristupiti cnbcoinima poslanim na te adrese. Budite oprezni da ne potpisujte ništa nejasno ili nasumično, jer napadi phishingom vas mogu prevariti da prepišite svoj identitet njima. Potpisujte samo detaljno objašnjene izjave s kojima se slažete.</translation>
     </message>
     <message>
         <source>The Litecoin address to sign the message with</source>
@@ -2439,7 +2439,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>Upišite poruku koju želite potpisati ovdje</translation>
+        <translation>Upišite poruku koju žecnb potpisati ovdje</translation>
     </message>
     <message>
         <source>Signature</source>
@@ -3033,7 +3033,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Do you want to increase the fee?</source>
-        <translation>Želite li povećati naknadu?</translation>
+        <translation>Žecnb li povećati naknadu?</translation>
     </message>
     <message>
         <source>Current fee:</source>
@@ -3219,7 +3219,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>Želite li sada obnoviti bazu blokova?</translation>
+        <translation>Žecnb li sada obnoviti bazu blokova?</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
@@ -3259,7 +3259,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Neuspješno slušanje na svim portovima. Koristite -listen=0 ako to želite.</translation>
+        <translation>Neuspješno slušanje na svim portovima. Koristite -listen=0 ako to žecnb.</translation>
     </message>
     <message>
         <source>Failed to rescan the wallet during initialization</source>

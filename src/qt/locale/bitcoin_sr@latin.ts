@@ -168,12 +168,12 @@
         <translation>Potvrdite šifrovanje novčanika</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
         <translation>Upozorenje: Ako šifrujete svoj novčanik, i potom izgubite svoju pristupnu frazu &lt;b&gt;IZGUBIĆETE SVE SVOJE BITKOINE&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Da li ste sigurni da želite da šifrujete svoj novčanik?</translation>
+        <translation>Da li ste sigurni da žecnb da šifrujete svoj novčanik?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -311,7 +311,7 @@
     </message>
     <message>
         <source>Click to enable network activity again.</source>
-        <translation>Odaberite da ponovo dozvolite aktivnost na mreži.</translation>
+        <translation>Odaberite da ponovo dozvocnb aktivnost na mreži.</translation>
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
@@ -394,8 +394,8 @@
         <translation>Alatke za tabove</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Zatražite plaćanje (generiše QR kodove i litecoin: URI-e)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Zatražite plaćanje (generiše QR kodove i cnbcoin: URI-e)</translation>
     </message>
     <message>
         <source>Error</source>

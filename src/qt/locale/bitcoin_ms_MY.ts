@@ -179,8 +179,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Mengesahkan enkripsi dompet</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Amaran: Jika anda enkripkan dompet anda dan hilangkan frasa laluan, anda akan &lt;b&gt;ANDA AKAN HILANGKAN SEMUA LITECOIN ANDA&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Amaran: Jika anda enkripkan dompet anda dan hilangkan frasa laluan, anda akan &lt;b&gt;ANDA AKAN HILANGKAN SEMUA CNBCOIN ANDA&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -386,7 +386,7 @@ Alihkan fail data ke dalam tab semasa</translation>
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>sahkan mesej bersama alamat litecoin anda untuk menunjukkan alamat ini anda punya</translation>
+        <translation>sahkan mesej bersama alamat cnbcoin anda untuk menunjukkan alamat ini anda punya</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
@@ -410,8 +410,8 @@ Alihkan fail data ke dalam tab semasa</translation>
 </translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Request payments (generates QR codes and litecoin: URIs)
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Request payments (generates QR codes and cnbcoin: URIs)
 </translation>
     </message>
     <message>

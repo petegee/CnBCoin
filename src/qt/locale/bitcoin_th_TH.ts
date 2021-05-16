@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>เซ็นชื่อด้วยข้อความ ที่เก็บ Litecoin เพื่อแสดงว่าท่านเป็นเจ้าของ litecoin นี้จริง</translation>
+        <translation>เซ็นชื่อด้วยข้อความ ที่เก็บ Litecoin เพื่อแสดงว่าท่านเป็นเจ้าของ cnbcoin นี้จริง</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
@@ -238,20 +238,20 @@
         <translation>แถบเครื่องมือ</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>เรียกเก็บ การชำระเงิน (สร้าง QR codes และ litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>เรียกเก็บ การชำระเงิน (สร้าง QR codes และ cnbcoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>แสดงรายการ ที่เก็บเงินที่จะส่ง litecoin ออก และป้ายชื่อ ที่ใช้ไปแล้ว</translation>
+        <translation>แสดงรายการ ที่เก็บเงินที่จะส่ง cnbcoin ออก และป้ายชื่อ ที่ใช้ไปแล้ว</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>แสดงรายการ ที่เก็บเงินที่จะรับ litecoin เข้า และป้ายชื่อ ที่ใช้ไปแล้ว</translation>
+        <translation>แสดงรายการ ที่เก็บเงินที่จะรับ cnbcoin เข้า และป้ายชื่อ ที่ใช้ไปแล้ว</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>เปิด litecoin: URI หรือ การเรียกเก็บเงิน (การเรียกให้ชำระเงิน)</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>เปิด cnbcoin: URI หรือ การเรียกเก็บเงิน (การเรียกให้ชำระเงิน)</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

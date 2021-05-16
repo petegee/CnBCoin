@@ -172,8 +172,8 @@
         <translation>Conferma criptaggio portafoglio</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Attenzione: Se cripti il tuo portafoglio e perdi la password, &lt;b&gt;PERDERAI TUTTI I TUOI LITECOIN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Attenzione: Se cripti il tuo portafoglio e perdi la password, &lt;b&gt;PERDERAI TUTTI I TUOI CNBCOIN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -402,8 +402,8 @@
         <translation>Barra degli strumenti</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Richiedi pagamenti (genera codici QR e litecoin: URI)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Richiedi pagamenti (genera codici QR e cnbcoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -414,8 +414,8 @@
         <translation>Mostra la lista degli indirizzi di ricezione usati e le relative etichette</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Apri un litecoin: URI o una richiesta di pagamento</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Apri un cnbcoin: URI o una richiesta di pagamento</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -758,12 +758,12 @@
 <context>
     <name>ModalOverlay</name>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Le transazioni recenti potrebbero non essere ancora visibili, e quindi il saldo del wallet potrebbe essere incorretto. Questa informazione verra' corretta non appena il tuo wallet ha finito di sincronizzarsi con la rete litecoin, come specificato di seguito.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
+        <translation>Le transazioni recenti potrebbero non essere ancora visibili, e quindi il saldo del wallet potrebbe essere incorretto. Questa informazione verra' corretta non appena il tuo wallet ha finito di sincronizzarsi con la rete cnbcoin, come specificato di seguito.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Tentare di spendere litecoin che sono affetti da transazioni non ancora mostrate, non verra' accettato dal network.</translation>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Tentare di spendere cnbcoin che sono affetti da transazioni non ancora mostrate, non verra' accettato dal network.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -830,8 +830,8 @@
         <translation>Gestione URI</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' non è un URI valido. Usa invece 'litecoin:'.</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>'cnbcoin://' non è un URI valido. Usa invece 'cnbcoin:'.</translation>
     </message>
     <message>
         <source>Invalid payment address %1</source>

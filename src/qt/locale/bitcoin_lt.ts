@@ -176,8 +176,8 @@
         <translation>Patvirtinkite piniginės užšifravimą</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO LITECOINUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO CNBCOINUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Piniginė užšifruota</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Jūsų piniginė yra užšifruota. Prisiminkite kad pinigės užšifravimas neapsaugos jūsų litecoins nuo kenkėjiškų programų užkrėtusių jūsų kompiuterį.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cnbcoins from being stolen by malware infecting your computer.</source>
+        <translation>Jūsų piniginė yra užšifruota. Prisiminkite kad pinigės užšifravimas neapsaugos jūsų cnbcoins nuo kenkėjiškų programų užkrėtusių jūsų kompiuterį.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -414,8 +414,8 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Reikalauti mokėjimų (sukuria QR kodus ir litecoin: URI)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Reikalauti mokėjimų (sukuria QR kodus ir cnbcoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,8 +426,8 @@
         <translation>Rodyti sąrašą panaudotų gavimo adresų ir žymių</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Atidaryti litecoin: URI ar apmokėjimo reikalavimą</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Atidaryti cnbcoin: URI ar apmokėjimo reikalavimą</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -878,7 +878,7 @@
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where %1 will store its data.</source>
-        <translation>Kadangi tai yra pirmas kartas, kai programa paleidžiama, galite pasirinkti, kur %1 išsaugos savo duomenis.</translation>
+        <translation>Kadangi tai yra pirmas kartas, kai programa paleidžiama, gacnb pasirinkti, kur %1 išsaugos savo duomenis.</translation>
     </message>
     <message>
         <source>When you click OK, %1 will begin to download and process the full %4 block chain (%2GB) starting with the earliest transactions in %3 when %4 initially launched.</source>
@@ -944,12 +944,12 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Naujausi sandoriai gali būti dar nematomi, todėl jūsų piniginės likutis gali būti neteisingas. Ši informacija bus teisinga, kai jūsų piniginė bus baigta sinchronizuoti su litecoin tinklu, kaip nurodyta žemiau.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
+        <translation>Naujausi sandoriai gali būti dar nematomi, todėl jūsų piniginės likutis gali būti neteisingas. Ši informacija bus teisinga, kai jūsų piniginė bus baigta sinchronizuoti su cnbcoin tinklu, kaip nurodyta žemiau.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Tinklas nepriims bandymų išleisti litecoinus, kurie yra vis dar nematomi.</translation>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Tinklas nepriims bandymų išleisti cnbcoinus, kurie yra vis dar nematomi.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1207,7 +1207,7 @@
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting %1.</source>
-        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus %1.</translation>
+        <translation>Čia gacnb nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus %1.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1364,16 +1364,16 @@
         <translation>Mokėjimo užklausos klaida</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Negalima paleisti litecoin: paspauskite sumokėti tvarkytojui</translation>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
+        <translation>Negalima paleisti cnbcoin: paspauskite sumokėti tvarkytojui</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation>URI tvarkymas</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>„litecoin: //“ nėra galiojantis URI. Vietoj to naudokite „litecoin:“.</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>„cnbcoin: //“ nėra galiojantis URI. Vietoj to naudokite „cnbcoin:“.</translation>
     </message>
     <message>
         <source>You are using a BIP70 URL which will be unsupported in the future.</source>
@@ -2227,8 +2227,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Dulkės:</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
-        <translation>Kai sandorių apimtis yra mažesnė nei erdvės blokuose, kasėjai ir perduodantys mazgai gali užtikrinti minimalų mokestį. Mokėti tik šį minimalų mokestį yra galima, tačiau atkreipkite dėmesį, kad dėl to gali atsirasti niekada nepatvirtinamas sandoris, kai bus daugiau paklausos litecoin operacijoms, nei tinklas gali apdoroti.</translation>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for cnbcoin transactions than the network can process.</source>
+        <translation>Kai sandorių apimtis yra mažesnė nei erdvės blokuose, kasėjai ir perduodantys mazgai gali užtikrinti minimalų mokestį. Mokėti tik šį minimalų mokestį yra galima, tačiau atkreipkite dėmesį, kad dėl to gali atsirasti niekada nepatvirtinamas sandoris, kai bus daugiau paklausos cnbcoin operacijoms, nei tinklas gali apdoroti.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -2244,7 +2244,7 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
     </message>
     <message>
         <source>With Replace-By-Fee (BIP-125) you can increase a transaction's fee after it is sent. Without this, a higher fee may be recommended to compensate for increased transaction delay risk.</source>
-        <translation>Naudojant Replace-by-Fend (BIP-125) galite išsiųsti sandorio mokestį vėliau. Be jo, gali būti rekomenduojamas didesnis mokestis, kad būtų kompensuota padidėjusi sandorio vėlavimo rizika.</translation>
+        <translation>Naudojant Replace-by-Fend (BIP-125) gacnb išsiųsti sandorio mokestį vėliau. Be jo, gali būti rekomenduojamas didesnis mokestis, kad būtų kompensuota padidėjusi sandorio vėlavimo rizika.</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -2308,7 +2308,7 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
     </message>
     <message>
         <source>You can increase the fee later (signals Replace-By-Fee, BIP-125).</source>
-        <translation>Vėliau galite padidinti mokestį (signalai Pakeisti mokesčius, BIP-125).</translation>
+        <translation>Vėliau gacnb padidinti mokestį (signalai Pakeisti mokesčius, BIP-125).</translation>
     </message>
     <message>
         <source>from wallet %1</source>
@@ -2434,8 +2434,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Pašalinti šį įrašą</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Mokestis bus atimamas iš siunčiamos sumos. Gavėjas gaus mažiau litecoinų nei įvesite sumos lauke. Jei pasirenkami keli gavėjai, mokestis padalijamas lygiai.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Mokestis bus atimamas iš siunčiamos sumos. Gavėjas gaus mažiau cnbcoinų nei įvesite sumos lauke. Jei pasirenkami keli gavėjai, mokestis padalijamas lygiai.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2462,8 +2462,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Įveskite šio adreso etiketę, kad ją pridėtumėte prie naudojamų adresų sąrašo</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Pranešimas, kuris buvo pridėtas prie litecoin: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „Litecoin“ tinklą.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <translation>Pranešimas, kuris buvo pridėtas prie cnbcoin: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „Litecoin“ tinklą.</translation>
     </message>
     <message>
         <source>Pay To:</source>

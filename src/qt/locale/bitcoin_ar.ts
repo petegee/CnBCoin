@@ -176,8 +176,8 @@
         <translation>تأكيد تشفير المحفظة</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدت كلمة المرور الخاص بك, ستفقد كل عملات LITECOINS الخاصة بك.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدت كلمة المرور الخاص بك, ستفقد كل عملات CNBCOINS الخاصة بك.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -406,7 +406,7 @@
         <translation>شريط أدوات علامات التبويب</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
         <translation>أطلب دفعات (يولد كودات الرمز المربع وبيت كوين: العناوين المعطاة)</translation>
     </message>
     <message>
@@ -418,7 +418,7 @@
         <translation>عرض قائمة عناوين الإستقبال المستخدمة والملصقات</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a cnbcoin: URI or payment request</source>
         <translation>فتح URI : Litecoin أو طلب دفع</translation>
     </message>
     <message>
@@ -904,11 +904,11 @@
         <translation>نمودج</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
         <translation>قد لا تكون المعاملات الأخيرة مرئية بعد، وبالتالي قد يكون رصيد محفظتك غير صحيح. ستكون هذه المعلومات صحيحة بمجرد الانتهاء من محفظتك مع شبكة الLitecoin، كما هو مفصل أدناه.</translation>
     </message>
     <message>
-        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>لن تقبل الشبكة محاولة إنفاق البتكوين المتأثرة بالمعاملات التي لم يتم عرضها بعد.</translation>
     </message>
     <message>
@@ -1272,7 +1272,7 @@
         <translation>خطأ في طلب الدفع</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
         <translation>لا يمكن تشغيل بتكوين: معالج النقر للدفع</translation>
     </message>
     <message>
@@ -2222,7 +2222,7 @@
         <translation>ازل هذه المداخله</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>سيتم خصم الرسوم من المبلغ الذي يتم إرساله. لذا سوف يتلقى المستلم مبلغ أقل من البتكوين المدخل في حقل المبلغ. في حالة تحديد عدة مستلمين، يتم تقسيم الرسوم بالتساوي.</translation>
     </message>
     <message>
@@ -2250,7 +2250,7 @@
         <translation>أدخل تسمية لهذا العنوان لإضافته إلى قائمة العناوين المستخدمة</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
         <translation>الرسالة التي تم إرفاقها مع البتكوين: العنوان الذي سيتم تخزينه مع المعاملة للرجوع إليه. ملاحظة: لن يتم إرسال هذه الرسالة عبر شبكة البتكوين.</translation>
     </message>
     <message>

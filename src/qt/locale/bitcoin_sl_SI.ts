@@ -172,19 +172,19 @@
         <translation>Potrdi šifriranje denarnice</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Opozorilo: V primeru izgube gesla šifrirane denarnice, boste &lt;b&gt;IZGUBILI VSE SVOJE LITECOINE&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Opozorilo: V primeru izgube gesla šifrirane denarnice, boste &lt;b&gt;IZGUBILI VSE SVOJE CNBCOINE&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Ali ste prepričani, da želite šifrirati svojo denarnico?</translation>
+        <translation>Ali ste prepričani, da žecnb šifrirati svojo denarnico?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
         <translation>Denarnica šifrirana</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cnbcoins from being stolen by malware infecting your computer.</source>
         <translation>Vaša denarnica je sedaj šifrirana. Pomnite, da šifriranje denarnice ne more popolnoma zaščititi vaših kovancev pred krajo z virusi ali drugimi zlonamernimi programi.</translation>
     </message>
     <message>
@@ -410,8 +410,8 @@
         <translation>Orodna vrstica zavihkov</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Zahtevajte plačilo (ustvarite zahtevek s kodo QR in URI tipa litecoin:)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Zahtevajte plačilo (ustvarite zahtevek s kodo QR in URI tipa cnbcoin:)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,8 +422,8 @@
         <translation>Preglejte in uredite seznam naslovov, na katere ste kdaj prejeli plačila</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Izvedite plačilo iz zahtevka v datoteki ali iz URI tipa litecoin:</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Izvedite plačilo iz zahtevka v datoteki ali iz URI tipa cnbcoin:</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -827,7 +827,7 @@
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>Mapa že obstaja. Dodajte %1, če tu želite ustvariti novo mapo.</translation>
+        <translation>Mapa že obstaja. Dodajte %1, če tu žecnb ustvariti novo mapo.</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
@@ -1182,7 +1182,7 @@
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>Program bo zaustavljen. Želite nadaljevati z izhodom?</translation>
+        <translation>Program bo zaustavljen. Žecnb nadaljevati z izhodom?</translation>
     </message>
     <message>
         <source>Configuration options</source>
@@ -1287,16 +1287,16 @@
         <translation>Napaka pri zahtevi plačila</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Ni mogoče zagnati rokovalca plačilnih povezav tipa litecoin:.</translation>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
+        <translation>Ni mogoče zagnati rokovalca plačilnih povezav tipa cnbcoin:.</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation>Rokovanje z URI</translation>
     </message>
     <message>
-        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
-        <translation>'litecoin://' ni veljaven URI. Uporabite raje 'litecoin:' .</translation>
+        <source>'cnbcoin://' is not a valid URI. Use 'cnbcoin:' instead.</source>
+        <translation>'cnbcoin://' ni veljaven URI. Uporabite raje 'cnbcoin:' .</translation>
     </message>
     <message>
         <source>Invalid payment address %1</source>
@@ -1575,7 +1575,7 @@
     </message>
     <message>
         <source>Select a peer to view detailed information.</source>
-        <translation>Izberite soležnika, o katerem si želite ogledati podrobnejše informacije.</translation>
+        <translation>Izberite soležnika, o katerem si žecnb ogledati podrobnejše informacije.</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -2071,7 +2071,7 @@
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>Ali ste prepričani, da želite poslati?</translation>
+        <translation>Ali ste prepričani, da žecnb poslati?</translation>
     </message>
     <message>
         <source>or</source>
@@ -2177,7 +2177,7 @@
         <translation>Izpraznite vsebino polja</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Znesek plačila bo zmanjšan za znesek provizije. Prejemnik bo prejel manjše število kovancev, kot je bil vnešeni znesek. Če je prejemnikov več, bo provizija med njih enakomerno porazdeljena.</translation>
     </message>
     <message>
@@ -2205,8 +2205,8 @@
         <translation>Če vnesete oznako za zgornji naslov, se bo skupaj z naslovom shranila v imenk že uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI tipa litecoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja Litecoin.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <translation>Sporočilo, ki ste ga pripeli na URI tipa cnbcoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja Litecoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2246,7 +2246,7 @@
         <translation>&amp;Podpiši sporočilo</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cnbcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>S svojimi naslovi lahko podpisujete sporočila ali pogodbe in s tem dokazujete, da na teh naslovih lahko prejemate kovance. Bodite previdni in ne podpisujte ničesar nejasnega ali naključnega, ker vas zlikovci preko ribarjenja (phishing) lahko prelisičijo, da na njih prepišete svojo identiteto. Podpisujte samo podrobno opisane izjave, s katerimi se strinjate.</translation>
     </message>
     <message>
@@ -2271,7 +2271,7 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>Vnesite sporočilo, ki ga želite podpisati</translation>
+        <translation>Vnesite sporočilo, ki ga žecnb podpisati</translation>
     </message>
     <message>
         <source>Signature</source>
@@ -2723,7 +2723,7 @@
     </message>
     <message>
         <source>Are you sure you wish to close wallet &lt;i&gt;%1&lt;/i&gt;?</source>
-        <translation>Ali ste prepričani, da želite zapreti denarnico &lt;i&gt;%1&lt;/i&gt;?</translation>
+        <translation>Ali ste prepričani, da žecnb zapreti denarnico &lt;i&gt;%1&lt;/i&gt;?</translation>
     </message>
     </context>
 <context>
@@ -2811,7 +2811,7 @@
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>Želite zdaj obnoviti podatkovno bazo blokov?</translation>
+        <translation>Žecnb zdaj obnoviti podatkovno bazo blokov?</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
@@ -2839,7 +2839,7 @@
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Ni mogoče poslušati na nobenih vratih. Če to zares želite, uporabite opcijo -listen=0.</translation>
+        <translation>Ni mogoče poslušati na nobenih vratih. Če to zares žecnb, uporabite opcijo -listen=0.</translation>
     </message>
     <message>
         <source>Importing...</source>

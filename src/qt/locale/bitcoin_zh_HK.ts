@@ -168,7 +168,7 @@
         <translation>確認錢包加密</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
         <translation>警告: 如果你將錢包加密後又忘記密碼，你就會&lt;b&gt;失去所有 Litecoin 了&lt;/b&gt;！</translation>
     </message>
     <message>
@@ -362,8 +362,8 @@
         <translation>說明 &amp;H</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>要求付款 (產生QR碼 litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>要求付款 (產生QR碼 cnbcoin: URIs)</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>

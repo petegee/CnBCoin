@@ -168,8 +168,8 @@
         <translation>Staðfesta dulkóðun veskis</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Viðvörun: Ef þú dulkóðar veskið og týnir lykilsetningunn þá munt þú &lt;b&gt;TAPA ALLRI ÞINNI LITECOIN MYNT&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Viðvörun: Ef þú dulkóðar veskið og týnir lykilsetningunn þá munt þú &lt;b&gt;TAPA ALLRI ÞINNI CNBCOIN MYNT&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -394,8 +394,8 @@
         <translation>Tólaborð flipa</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Óska eftir greiðslum (býr til QR kóða og litecoin: URI)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Óska eftir greiðslum (býr til QR kóða og cnbcoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -406,8 +406,8 @@
         <translation>Sýna færslugildi sem notuð hafa verið til að taka við mynt og merkingar þeirra</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Opna litecoin: URI eða greiðslubeiðni</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Opna cnbcoin: URI eða greiðslubeiðni</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>

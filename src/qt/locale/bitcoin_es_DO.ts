@@ -152,8 +152,8 @@
         <translation>Confirme cifrado del monedero</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Atención: Si cifra su monedero y pierde la contraseña, perderá ¡&lt;b&gt;TODOS SUS LITECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Atención: Si cifra su monedero y pierde la contraseña, perderá ¡&lt;b&gt;TODOS SUS CNBCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -306,7 +306,7 @@
         <translation>Barra de pestañas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
         <translation>Solicitar pagos (genera codigo QR y URL's de Litecoin)</translation>
     </message>
     <message>
@@ -318,8 +318,8 @@
         <translation>Muestra la lista de direcciones de recepción y etiquetas</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Abrir un litecoin: URI o petición de pago</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Abrir un cnbcoin: URI o petición de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

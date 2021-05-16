@@ -172,8 +172,8 @@
         <translation>Confirma l'encriptació del moneder</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Avís: si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES LITECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CNBCOINS&lt;/b&gt;!</source>
+        <translation>Avís: si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES CNBCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -362,8 +362,8 @@
         <translation>Barra d'eines de les pestanyes</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Sol·licita pagaments (genera codis QR i litecoin: URI)</translation>
+        <source>Request payments (generates QR codes and cnbcoin: URIs)</source>
+        <translation>Sol·licita pagaments (genera codis QR i cnbcoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -374,8 +374,8 @@
         <translation>Mostra la llista d'adreces de recepció i etiquetes utilitzades</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Obri una litecoin: sol·licitud d'URI o pagament</translation>
+        <source>Open a cnbcoin: URI or payment request</source>
+        <translation>Obri una cnbcoin: sol·licitud d'URI o pagament</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -825,7 +825,7 @@
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>Si inhabiliteu la despesa d'un canvi sense confirmar, el canvi d'una transacció no pot ser utilitzat fins que la transacció no tinga com a mínim una confirmació. Això també afecta com es calcula el vostre balanç.</translation>
+        <translation>Si inhabicnbu la despesa d'un canvi sense confirmar, el canvi d'una transacció no pot ser utilitzat fins que la transacció no tinga com a mínim una confirmació. Això també afecta com es calcula el vostre balanç.</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -1018,8 +1018,8 @@
         <translation>Error en la sol·licitud de pagament</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>No es pot iniciar litecoin: gestor clica-per-pagar</translation>
+        <source>Cannot start cnbcoin: click-to-pay handler</source>
+        <translation>No es pot iniciar cnbcoin: gestor clica-per-pagar</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1792,8 +1792,8 @@
         <translation>Elimina esta entrada</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>La comissió es deduirà de l'import que s'enviarà. El destinatari rebrà menys litecoins que les que introduïu al camp d'import. Si se seleccionen múltiples destinataris, la comissió es dividirà per igual.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cnbcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>La comissió es deduirà de l'import que s'enviarà. El destinatari rebrà menys cnbcoins que les que introduïu al camp d'import. Si se seleccionen múltiples destinataris, la comissió es dividirà per igual.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -1816,8 +1816,8 @@
         <translation>Introduïu una etiqueta per a esta adreça per afegir-la a la llista d'adreces utilitzades</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Un missatge que s'ha adjuntat al litecoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Litecoin.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <translation>Un missatge que s'ha adjuntat al cnbcoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Litecoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1857,8 +1857,8 @@
         <translation>&amp;Signa el missatge</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Podeu signar missatges/acords amb les vostres adreces per provar que rebeu les litecoins que s'hi envien. Aneu amb compte no signar res que siga vague o aleatori, perquè en alguns atacs de suplantació es pot provar que hi signeu la vostra identitat. Només signeu aquelles declaracions completament detallades en què hi esteu d'acord. </translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cnbcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Podeu signar missatges/acords amb les vostres adreces per provar que rebeu les cnbcoins que s'hi envien. Aneu amb compte no signar res que siga vague o aleatori, perquè en alguns atacs de suplantació es pot provar que hi signeu la vostra identitat. Només signeu aquelles declaracions completament detallades en què hi esteu d'acord. </translation>
     </message>
     <message>
         <source>The Litecoin address to sign the message with</source>
