@@ -1,14 +1,14 @@
 *.tar.gz
 
 *.exe
-src/litecoin
-src/litecoind
-src/litecoin-cli
-src/litecoin-tx
-src/litecoin-wallet
-src/test/test_litecoin
-src/test/test_litecoin_fuzzy
-src/qt/test/test_litecoin-qt
+src/cnbcoin
+src/cnbcoind
+src/cnbcoin-cli
+src/cnbcoin-tx
+src/cnbcoin-wallet
+src/test/test_cnbcoin
+src/test/test_cnbcoin_fuzzy
+src/qt/test/test_cnbcoin-qt
 
 # autoreconf
 Makefile.in
@@ -83,13 +83,13 @@ src/qt/bitcoin-qt.includes
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
-litecoin-Qt.app
+cnbcoin-qt
+cnbcoin-Qt.app
 background.tiff*
 
 # Unit-tests
 Makefile.test
-litecoin-qt_test
+cnbcoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
@@ -101,7 +101,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_litecoin.coverage/
+test_cnbcoin.coverage/
 total.coverage/
 coverage_percent.txt
 
@@ -124,3 +124,13 @@ db4/
 
 # clang-check
 *.plist
+
+src/bench/bench_litecoin
+
+src/litecoind
+
+src/qt/litecoin-qt
+
+src/qt/test/test_litecoin-qt
+
+src/test/test_litecoin

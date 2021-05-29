@@ -66,12 +66,12 @@
         <translation>Adresses de réception</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Voici vos adresses Litecoin pour envoyer des paiements. Vérifiez toujours le montant et l’adresse du destinataire avant d’envoyer des pièces.</translation>
+        <source>These are your CnBCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Voici vos adresses CnBCoin pour envoyer des paiements. Vérifiez toujours le montant et l’adresse du destinataire avant d’envoyer des pièces.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Voici vos adresses Litecoin pour recevoir des paiements. Il est recommandé d’utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
+        <source>These are your CnBCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Voici vos adresses CnBCoin pour recevoir des paiements. Il est recommandé d’utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Le serveur mandataire est &lt;b&gt;activé&lt;/b&gt; : %1</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Envoyer des pièces à une adresse Litecoin</translation>
+        <source>Send coins to a CnBCoin address</source>
+        <translation>Envoyer des pièces à une adresse CnBCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Vérifier un message...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CnBCoin</source>
+        <translation>CnBCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Chiffrer les clés privées qui appartiennent à votre porte-monnaie</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Signer les messages avec vos adresses Litecoin pour prouver que vous les détenez</translation>
+        <source>Sign messages with your CnBCoin addresses to prove you own them</source>
+        <translation>Signer les messages avec vos adresses CnBCoin pour prouver que vous les détenez</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Vérifier les messages pour s’assurer qu’ils ont été signés avec les adresses Litecoin indiquées</translation>
+        <source>Verify messages to ensure they were signed with specified CnBCoin addresses</source>
+        <translation>Vérifier les messages pour s’assurer qu’ils ont été signés avec les adresses CnBCoin indiquées</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>Options de ligne de &amp;commande</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n connexion active avec le réseau Litecoin</numerusform><numerusform>%n connexions actives avec le réseau Litecoin</numerusform></translation>
+        <source>%n active connection(s) to CnBCoin network</source>
+        <translation><numerusform>%n connexion active avec le réseau CnBCoin</numerusform><numerusform>%n connexions actives avec le réseau CnBCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -502,8 +502,8 @@
         <translation>Fermer le porte-monnaie</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>Afficher le message d’aide de %1 pour obtenir la liste des options de ligne de commande Litecoin possibles.</translation>
+        <source>Show the %1 help message to get a list with possible CnBCoin command-line options</source>
+        <translation>Afficher le message d’aide de %1 pour obtenir la liste des options de ligne de commande CnBCoin possibles.</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -614,8 +614,8 @@
         <translation>Le porte-monnaie est &lt;b&gt;chiffré&lt;/b&gt; et actuellement &lt;b&gt;verrouillé&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale est survenue. Litecoin ne peut plus continuer en toute sécurité et va s’arrêter.</translation>
+        <source>A fatal error occurred. CnBCoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale est survenue. CnBCoin ne peut plus continuer en toute sécurité et va s’arrêter.</translation>
     </message>
 </context>
 <context>
@@ -804,8 +804,8 @@
         <translation>Modifier l’adresse d’envoi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>L’adresse saisie « %1 » n’est pas une adresse Litecoin valide.</translation>
+        <source>The entered address "%1" is not a valid CnBCoin address.</source>
+        <translation>L’adresse saisie « %1 » n’est pas une adresse CnBCoin valide.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -901,8 +901,8 @@
         <translation>Utiliser un répertoire de données personnalisé :</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CnBCoin</source>
+        <translation>CnBCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -913,8 +913,8 @@
         <translation>Approximativement %1 Go de données seront stockés dans ce répertoire.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Litecoin block chain.</source>
-        <translation>%1 téléchargera et stockera une copie de la chaîne de blocs Litecoin.</translation>
+        <source>%1 will download and store a copy of the CnBCoin block chain.</source>
+        <translation>%1 téléchargera et stockera une copie de la chaîne de blocs CnBCoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -945,7 +945,7 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the cnbcoin network, as detailed below.</source>
-        <translation>Les transactions récentes ne sont peut-être pas encore visibles et par conséquent le solde de votre porte-monnaie est peut-être erroné. Ces informations seront justes quand votre porte-monnaie aura fini de se synchroniser avec le réseau Litecoin, comme décrit ci-dessous.</translation>
+        <translation>Les transactions récentes ne sont peut-être pas encore visibles et par conséquent le solde de votre porte-monnaie est peut-être erroné. Ces informations seront justes quand votre porte-monnaie aura fini de se synchroniser avec le réseau CnBCoin, comme décrit ci-dessous.</translation>
     </message>
     <message>
         <source>Attempting to spend cnbcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
@@ -1130,8 +1130,8 @@
         <translation>&amp;Dépenser la monnaie non confirmée</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquement le port du client Litecoin sur le routeur. Cela ne fonctionne que si votre routeur prend en charge l’UPnP et si la fonction est activée.</translation>
+        <source>Automatically open the CnBCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquement le port du client CnBCoin sur le routeur. Cela ne fonctionne que si votre routeur prend en charge l’UPnP et si la fonction est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1146,8 +1146,8 @@
         <translation>Permettre les connexions e&amp;ntrantes</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>Se connecter au réseau Litecoin par un mandataire SOCKS5.</translation>
+        <source>Connect to the CnBCoin network through a SOCKS5 proxy.</source>
+        <translation>Se connecter au réseau CnBCoin par un mandataire SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1182,8 +1182,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Se connecter au réseau Litecoin au travers d’un mandataire SOCKS5 séparé pour les services cachés de Tor.</translation>
+        <source>Connect to the CnBCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Se connecter au réseau CnBCoin au travers d’un mandataire SOCKS5 séparé pour les services cachés de Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1293,8 +1293,8 @@
         <translation>Formulaire</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre porte-monnaie se synchronise automatiquement avec le réseau Litecoin dès qu’une connexion est établie, mais ce processus n’est pas encore achevé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CnBCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre porte-monnaie se synchronise automatiquement avec le réseau CnBCoin dès qu’une connexion est établie, mais ce processus n’est pas encore achevé.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1396,8 +1396,8 @@
         <translation>Adresse de paiement invalide %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>L’URI ne peut pas être analysée ! Cela peut être causé par une adresse Litecoin invalide ou par des paramètres d’URI mal formés.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid CnBCoin address or malformed URI parameters.</source>
+        <translation>L’URI ne peut pas être analysée ! Cela peut être causé par une adresse CnBCoin invalide ou par des paramètres d’URI mal formés.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1498,8 +1498,8 @@
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Saisir une adresse Litecoin (p. ex. %1)</translation>
+        <source>Enter a CnBCoin address (e.g. %1)</source>
+        <translation>Saisir une adresse CnBCoin (p. ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1872,7 +1872,7 @@
     </message>
     <message>
         <source>&amp;Unban</source>
-        <translation>&amp;Réhabicnbr</translation>
+        <translation>&amp;Réhabiliter</translation>
     </message>
     <message>
         <source>Welcome to the %1 RPC console.</source>
@@ -1954,8 +1954,8 @@
         <translation>M&amp;essage :</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>Un message facultatif à joindre à la demande de paiement et qui sera affiché à l’ouverture de celle-ci. Note : Le message ne sera pas envoyé avec le paiement par le réseau Litecoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CnBCoin network.</source>
+        <translation>Un message facultatif à joindre à la demande de paiement et qui sera affiché à l’ouverture de celle-ci. Note : Le message ne sera pas envoyé avec le paiement par le réseau CnBCoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2383,8 +2383,8 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation><numerusform>Il est estimé que la confirmation commencera dans %n bloc.</numerusform><numerusform>Il est estimé que la confirmation commencera dans %n blocs.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Litecoin address</source>
-        <translation>Avertissement : L’adresse Litecoin est invalide</translation>
+        <source>Warning: Invalid CnBCoin address</source>
+        <translation>Avertissement : L’adresse CnBCoin est invalide</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2426,8 +2426,8 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Ceci est un paiement normal.</translation>
     </message>
     <message>
-        <source>The Litecoin address to send the payment to</source>
-        <translation>L’adresse Litecoin à laquelle envoyer le paiement</translation>
+        <source>The CnBCoin address to send the payment to</source>
+        <translation>L’adresse CnBCoin à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2474,8 +2474,8 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Saisir une étiquette pour cette adresse afin de l’ajouter à la liste d’adresses utilisées</translation>
     </message>
     <message>
-        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Un message qui était joint à l’URI cnbcoin: et qui sera stocké avec la transaction pour référence. Note : Ce message ne sera pas envoyé par le réseau Litecoin.</translation>
+        <source>A message that was attached to the cnbcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CnBCoin network.</source>
+        <translation>Un message qui était joint à l’URI cnbcoin: et qui sera stocké avec la transaction pour référence. Note : Ce message ne sera pas envoyé par le réseau CnBCoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2523,8 +2523,8 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Vous pouvez signer des messages ou des accords avec vos adresses pour prouver que vous pouvez recevoir des cnbcoins à ces dernières. Faites attention de ne rien signer de vague ou au hasard, car des attaques d’hameçonnage pourraient essayer de vous faire signer avec votre identité afin de l’usurper. Ne signez que des déclarations entièrement détaillées et avec lesquelles vous êtes d’accord.</translation>
     </message>
     <message>
-        <source>The Litecoin address to sign the message with</source>
-        <translation>L’adresse Litecoin avec laquelle signer le message</translation>
+        <source>The CnBCoin address to sign the message with</source>
+        <translation>L’adresse CnBCoin avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2555,8 +2555,8 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Copier la signature actuelle dans le presse-papiers</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Signer le message afin de prouver que vous détenez cette adresse Litecoin</translation>
+        <source>Sign the message to prove you own this CnBCoin address</source>
+        <translation>Signer le message afin de prouver que vous détenez cette adresse CnBCoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2579,12 +2579,12 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Saisir ci-dessous l’adresse du destinataire, le message (s’assurer de copier fidèlement les retours à la ligne, les espaces, les tabulations, etc.) et la signature pour vérifier le message. Faire attention à ne pas déduire davantage de la signature que ce qui est contenu dans le message signé même, pour éviter d’être trompé par une attaque d’homme du milieu. Prendre en compte que cela ne fait que prouver que le signataire reçoit l’adresse et ne peut pas prouver la provenance d’une transaction !</translation>
     </message>
     <message>
-        <source>The Litecoin address the message was signed with</source>
-        <translation>L’adresse Litecoin avec laquelle le message a été signé</translation>
+        <source>The CnBCoin address the message was signed with</source>
+        <translation>L’adresse CnBCoin avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Vérifier le message pour s’assurer qu’il a été signé avec l’adresse Litecoin indiquée</translation>
+        <source>Verify the message to ensure it was signed with the specified CnBCoin address</source>
+        <translation>Vérifier le message pour s’assurer qu’il a été signé avec l’adresse CnBCoin indiquée</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3251,8 +3251,8 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>CnBCoin Core</source>
+        <translation>CnBCoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

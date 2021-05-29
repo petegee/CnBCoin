@@ -62,12 +62,12 @@
         <translation>Adresa na koju se prima</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su Vaše Litecoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića.</translation>
+        <source>These are your CnBCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su Vaše CnBCoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su Vaše Litecoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
+        <source>These are your CnBCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su Vaše CnBCoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Da li ste sigurni da žecnb da šifrujete svoj novčanik?</translation>
+        <translation>Da li ste sigurni da želite da šifrujete svoj novčanik?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -311,7 +311,7 @@
     </message>
     <message>
         <source>Click to enable network activity again.</source>
-        <translation>Odaberite da ponovo dozvocnb aktivnost na mreži.</translation>
+        <translation>Odaberite da ponovo dozvolite aktivnost na mreži.</translation>
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
@@ -322,8 +322,8 @@
         <translation>Ponovo obeležavam blokove na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Pošalji novčiće na Litecoin adresu</translation>
+        <source>Send coins to a CnBCoin address</source>
+        <translation>Pošalji novčiće na CnBCoin adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Proveri poruku...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CnBCoin</source>
+        <translation>CnBCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -370,12 +370,12 @@
         <translation>Enkriptuj privatne ključeve novčanika</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Potpišite poruke sa svojim Litecoin adresama da biste dokazali njihovo vlasništvo</translation>
+        <source>Sign messages with your CnBCoin addresses to prove you own them</source>
+        <translation>Potpišite poruke sa svojim CnBCoin adresama da biste dokazali njihovo vlasništvo</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Proverite poruke da biste utvrdili sa kojim Litecoin adresama su potpisane</translation>
+        <source>Verify messages to ensure they were signed with specified CnBCoin addresses</source>
+        <translation>Proverite poruke da biste utvrdili sa kojim CnBCoin adresama su potpisane</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -499,8 +499,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>CnBCoin</source>
+        <translation>CnBCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -677,8 +677,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>CnBCoin Core</source>
+        <translation>CnBCoin Core</translation>
     </message>
     <message>
         <source>Information</source>
